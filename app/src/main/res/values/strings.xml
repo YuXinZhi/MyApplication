@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MediaExplorer</string>
     <string name="all">全部</string>
     <string name="text">文本</string>
     <string name="picture">图片</string>
