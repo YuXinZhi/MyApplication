@@ -18,11 +18,11 @@ import com.example.ben.myapplication.R;
 import com.example.ben.myapplication.utils.Cheeses;
 
 public class HomeActivity extends AppCompatActivity {
-    static final int NUM_ITEMS = 5;
+    static final int NUM_ITEMS = 4;
     static final String[] TITLE_INDEX =
 
             {
-                    "全部", "文本", "图片", "音频", "视频"
+                     "文本", "图片", "音频", "视频"
 
             };
     ViewPager mPager;
